@@ -1,4 +1,10 @@
 
 html, body { height: 100%;
- background-color: rgb(49, 49, 51); }
+ background: linear-gradient(
+     to right,
+     rgb(40, 41, 40) 0%,
+     rgb(40, 41, 40) 25%,
+     rgb(49, 49, 51) 25%,
+     rgb(49, 49, 51) 100%
+ ); }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
