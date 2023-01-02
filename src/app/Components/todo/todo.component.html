@@ -1,9 +1,8 @@
 <app-navbar></app-navbar>
 <div class="container-fluid">
-    <div class="row">
-        <div class="col-md-3">
-            <div>
-                <div class="card h-100 mt-3">
+    <div style="height: 92vh;" class="row">
+        <div style="background-color:  #0b0f19" class="col-md-3">
+                <div  class="card mt-3">
                     <div class="card-body">
                         <form [formGroup]="todoForm">
                             <mat-form-field class="d-block" appearance="outline">
@@ -18,7 +17,6 @@
                                 (click)="updateTasks()">Update</button>
                         </form>
                     </div>
-                </div>
             </div>
         </div>
         <div class="col-md-9 mt-3">
