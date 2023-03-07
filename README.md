@@ -25,7 +25,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 [![imgur](https://res.cloudinary.com/dbnvekn33/image/upload/v1677592784/Angular-TODO-preview_swoxll.png)](https://arunhbk-angulartodo.netlify.app/)
 
- Feel free to [See Live](https://arunhbk-angulartodo.netlify.app/)
+ Feel free to  <a href="https://arunhbk-angulartodo.netlify.app/" target="_blank">See Live</a>
 
 ## Further help
 
